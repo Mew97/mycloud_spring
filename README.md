@@ -23,4 +23,10 @@ vue-uploader，分⽚片校验上传（分⽚片信 息保存在redies，上传�
 登陆页面  
 <img src="https://github.com/Mew97/resources/blob/master/登陆.png" width=100% />
 
+上传页面
+<img src="https://github.com/Mew97/resources/blob/master/%E4%B8%8A%E4%BC%A0%E9%A1%B5%E9%9D%A2.png" width=100% />
+
+文件列表
+<img src="https://github.com/Mew97/resources/blob/master/%E6%96%87%E4%BB%B6%E5%88%97%E8%A1%A8.png" width=100% />
+
 
