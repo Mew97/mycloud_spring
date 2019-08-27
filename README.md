@@ -21,6 +21,6 @@ vue-uploader，分⽚片校验上传（分⽚片信 息保存在redies，上传�
 下载（直接让客户端从存储服务器点对点下载⽂文件（nginx代理理）与服务器器之间只保持少量量通信，将极⼤大减轻服务器器压力  
 
 登陆页面  
-<img scr="https://github.com/Mew97/resources/blob/master/登陆.png" width=50% />
+<img src="https://github.com/Mew97/resources/blob/master/登陆.png" width=50% />
 
 
